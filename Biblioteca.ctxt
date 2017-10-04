@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=p_nombre
+comment0.target=Biblioteca(java.lang.String)
+comment1.params=p_nombre
+comment1.target=void\ setNombre(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=p_titulo\ p_edicion\ p_editorial\ p_anio
+comment3.target=void\ nuevoLibro(java.lang.String,\ int,\ java.lang.String,\ int)
+comment4.params=p_dniSocio\ p_nombre\ p_carrera
+comment4.target=void\ nuevoSocioEstudiante(int,\ java.lang.String,\ java.lang.String)
+comment5.params=p_dniSocio\ p_nombre\ p_area
+comment5.target=void\ nuevoSocioDocente(int,\ java.lang.String,\ java.lang.String)
+comment6.params=p_objeto
+comment6.target=int\ cantidadSociosPorTipo(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ listaDeSocios()
+comment8.params=
+comment8.target=java.lang.String\ listaDeLibros()
+comment9.params=
+comment9.target=java.lang.String\ listaDeDocentesResponsables()
+numComments=10

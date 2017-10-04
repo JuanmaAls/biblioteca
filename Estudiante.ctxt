@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=p_dniSocio\ p_nombre\ p_carrera
+comment0.target=Estudiante(int,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Metodo\ constructor\ que\ no\ recibe\ el\ parametro\ p_diasPrestamos\ para\ la\ super\ clase.\r\n
+comment1.params=p_carrera
+comment1.target=void\ setCarrera(java.lang.String)
+comment1.text=\r\n\ Mutador\ del\ atributo\ carrera\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCarrera()
+comment2.text=\r\n\ Obersavor\ del\ atributo\ carrera\r\n
+comment3.params=
+comment3.target=java.lang.String\ soyDeLaClase()
+comment3.text=\r\n\ Metodo\ que\ retorna\ el\ nombre\ de\ la\ subclase\ situada\r\n
+comment4.params=
+comment4.target=boolean\ puedePedir()
+comment4.text=\r\n\ Verifica\ si\ puede\ retirar\ un\ libro\ o\ no\r\n
+numComments=5

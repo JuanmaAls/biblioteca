@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=p_fechaRetiro
+comment0.target=void\ setFechaRetiro(java.util.Calendar)
+comment1.params=p_fechaDevolucion
+comment1.target=void\ setFechaDevolucion(java.util.Calendar)
+comment2.params=
+comment2.target=java.util.Calendar\ getFechaRetiro()
+comment3.params=
+comment3.target=java.util.Calendar\ getFechaDevolucion()
+comment4.params=p_fecha
+comment4.target=boolean\ vencido(java.util.Calendar)
+comment4.text=\r\n\ Determina\ si\ ya\ venci\u00F3\ el\ plazo\ de\ devoluci\u00F3n\ del\ libro.\r\n\ @return\ True\:\ ya\ venci\u00F3\ el\ plazo\ /\ False\ en\ caso\ contrario\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Devuelve\ una\ cadena\ con\ los\ datos\ del\ objeto.\r\n
+numComments=6
